@@ -7,7 +7,7 @@ exec: ```./irc port password```
 then use and IRC client to connect to it, my IRC client was irssi
 
 
-## He is how we launch the server:
+## This is how we launch the server:
 ![image](https://github.com/dxrxbxk/IRC/assets/49480965/4d5cc85a-077e-4de7-9936-4428ef84396c)
 
 ## Another way to fast connect:
